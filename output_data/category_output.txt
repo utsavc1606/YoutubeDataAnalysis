@@ -1,0 +1,15 @@
+ UNA 	30
+Autos & Vehicles	77
+Comedy	391
+Education	64
+Entertainment	852
+Film & Animation	240
+Howto & Style	130
+Music	830
+News & Politics	333
+Nonprofits & Activism	42
+People & Blogs	397
+Pets & Animals	86
+Science & Technology	79
+Sports	251
+Travel & Events	112
